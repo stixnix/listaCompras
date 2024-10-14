@@ -13,7 +13,7 @@ function showError(message) {
   // Define o tempo de exibição da mensagem (2 segundos)
   setTimeout(() => {
       removeError();
-  }, 2000); // 2000 milissegundos = 2 segundos
+  }, 3000); // 2000 milissegundos = 2 segundos
 }
 
 // Função para remover mensagem de erro
